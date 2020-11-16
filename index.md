@@ -1,6 +1,7 @@
-## PIPEWARP'S SITE THINGY
+# PipeWarp's Site
 
 This is a shortcut to acsessing my github repos.
+Also i get to keep the domain so yeah that too.
 
 # My best finished projects are:
 
