@@ -1,7 +1,7 @@
 # Welcome!
 
 This is a shortcut to acsessing my github repos.
-Also i get to keep the domain so yeah that too.
+Also I get to keep the domain so yeah that too.
 
 # My best finished projects are:
 
@@ -9,7 +9,8 @@ Also i get to keep the domain so yeah that too.
 
 # Whats in the works?
 
-PipeUI - A UI Library for the libvita2d
+GameReel - A C++ OpenGL Game Engine.
 
-?????? - A game engine that i'm making (more for practicing but i might release it as well as support for building to the psvita.
-UPDATE: Yep, it's comfirmed. I'm making a 3D game engine. See you all soon!
+Cracker - A Visual Novel File Editor.
+
+HP - Dig around in the GBATemp EOF to figure this one out
