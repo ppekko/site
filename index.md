@@ -16,4 +16,6 @@ GameReel - A C++ OpenGL Game Engine.
 
 Cracker - A Visual Novel File Editor.
 
+Revolt Desktop - A Revolt Desktop Client
+
 HP - Dig around in the GBATemp EOF to figure this one out
