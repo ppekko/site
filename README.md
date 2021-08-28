@@ -1,7 +1,5 @@
-# hi im pipewarp
+# heya
 
-i make code and give it out for free.
-
-unless i dont which in that case *pay up* 
+i make code
 
 more details [here](https://pipewarp.co.uk)
