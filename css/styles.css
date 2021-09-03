@@ -17,6 +17,7 @@ thing {
     font-family: 'Roboto';
     height: 70vh;
 }
+
 .white {
     color: #fff;
 }
@@ -40,6 +41,8 @@ thing {
     display:none;
     padding: 80px;
     font-size: 32px;
+
+
 }
 
 .typing {
