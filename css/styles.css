@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #000;
+    text-align: center;
+    font-family: 'Courier New';
+    height: 70vh;
+}
+
+
+thing {
+    background: #000;
+    text-align: center;
+    font-family: 'Roboto';
+    height: 70vh;
+}
+.white {
+    color: #fff;
+}
+
+.anim1 {
+    color: #11cf43;
+    padding-top: 100px;
+}
+
+.anim2 {
+    color: white;
+    font-family: 'Courier New';
+    display:none;
+    padding: 80px;
+    font-size: 62px;
+}
+
+.anim3 {
+    color: white;
+    font-family: 'Courier New';
+    display:none;
+    padding: 80px;
+    font-size: 32px;
+}
+
+.typing {
+    border-right: .15em solid white;
+    white-space: nowrap;
+    overflow: hidden;
+    animation:
+        /* typing 3.5s steps(40, end),*/
+        cursor-effect .75s step-end infinite;
+}
+
+
+@keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+}
+
+@keyframes cursor-effect {
+    from, to { border-color: transparent }
+    50% { border-color: white }
+}
+
