@@ -26,13 +26,16 @@ function startTyping1(i, obj) {
 
 function endTyping1() {
     var pipewarpText = $('.anim2');
+
     var pipewarpText2 = $('.anim3');
+    var pipewarpText3 = $('.anim4');
+    var pipewarpText4 = $('.anim5');
 
     setTimeout(function() {
         pipewarpText.fadeIn(2000);
-        pipewarpText2.slideDown(3000);
         pipewarpText2.fadeIn(5000);
-
+        pipewarpText3.fadeIn(5000);
+        pipewarpText4.fadeIn(5000);
     }, 1500);
 }
 
