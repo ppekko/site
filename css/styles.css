@@ -1,19 +1,19 @@
 * {
     margin: 0;
     padding: 0;
+}
+
+body {
     background: #000;
 }
 
 header {
-    background: #000;
     text-align: center;
     font-family: 'Courier New';
-    height: 70vh;
 }
 
 
 thing {
-    background: #000;
     text-align: center;
     font-family: 'Roboto';
     height: 70vh;
@@ -58,10 +58,17 @@ thing {
     font-size: 32px;
 }
 
-.69420{
-    display: block;
-    text-align: left;
+.list {
+    float: left;
+    position: relative;
+    left: 25%;
 
+}
+
+.listin {
+    float: left;
+    position: left;
+    left: -50%;
 }
 
 .typing {
