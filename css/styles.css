@@ -40,21 +40,24 @@ thing {
     color: white;
     font-family: 'Courier New';
     display:none;
-    padding: 30px;
     font-size: 32px;
 }
 .anim4 {
     color: white;
     font-family: 'Courier New';
     display:none;
-    padding: 30px;
     font-size: 32px;
 }
 .anim5 {
     color: white;
     font-family: 'Courier New';
     display:none;
-    padding: 30px;
+    font-size: 32px;
+}
+.anim6 {
+    color: white;
+    font-family: 'Courier New';
+    display:none;
     font-size: 32px;
 }
 
