@@ -63,12 +63,14 @@ thing {
 
 .list {
     float: left;
-    position: relative;
+    position: center;
+    color: black;
     left: 25%;
 
 }
 
 .listin {
+    color: black;
     float: left;
     position: left;
     left: -50%;
