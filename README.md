@@ -6,4 +6,6 @@ i'm also the creator of [vtc (very terrible code)](https://vtc.pipewarp.co.uk), 
 
 more details [here](https://pipewarp.co.uk)
 
-![LxDemOWin](https://raw.githubusercontent.com/PipeWarp/LxDemOWin/main/brand/icon.png)
+<p align="center">
+<img src="./brand/icon.png" alt="drawing" width="200" height="200"/>
+</p>
