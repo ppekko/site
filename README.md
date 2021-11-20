@@ -7,5 +7,5 @@ i'm also the creator of [vtc (very terrible code)](https://vtc.pipewarp.co.uk), 
 more details [here](https://pipewarp.co.uk)
 
 <p align="center">
-<img src=".https://raw.githubusercontent.com/PipeWarp/LxDemOWin/main/brand/icon.png" alt="drawing" width="200" height="200"/>
+<img src="https://raw.githubusercontent.com/PipeWarp/LxDemOWin/main/brand/icon.png" alt="drawing" width="200" height="200"/>
 </p>
