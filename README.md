@@ -1,6 +1,6 @@
 # heya
 
-i'm a guy who creates code.
+i'm a guy who creates code, and i like code that compile into tiny sizes.
 
 i'm also the creator of [vtc (very terrible code)](https://vtc.pipewarp.co.uk), and i'm a lead dev there.
 
