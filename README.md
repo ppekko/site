@@ -11,6 +11,6 @@ more details [here](https://pipewarp.co.uk)
   <img src="https://raw.githubusercontent.com/PipeWarp/LxDemOWin/main/brand/icon.png" alt="LxDemOWin" width="100" height="100"/>
   </a>
   <a href="https://github.com/PipeWarp/SimpleNFL">
-  <img src="https://raw.githubusercontent.com/PipeWarp/SimpleNFL/main/brand/icon.png" alt="SimpleNFL" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/PipeWarp/SimpleNFL/master/brand/icon.png" alt="SimpleNFL" width="100" height="100"/>
   </a>
 </p>
