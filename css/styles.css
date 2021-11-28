@@ -12,13 +12,6 @@ header {
     font-family: 'Courier New';
 }
 
-
-thing {
-    text-align: center;
-    font-family: 'Roboto';
-    height: 70vh;
-}
-
 .white {
     color: #fff;
 }
@@ -62,18 +55,10 @@ thing {
 }
 
 .list {
-    float: left;
-    position: center;
+    text-align: center;
     color: black;
-    left: 25%;
-
-}
-
-.listin {
-    color: black;
-    float: left;
-    position: center;
-    left: -50%;
+    position: relative;
+    margin: auto;
 }
 
 .typing {
@@ -95,4 +80,3 @@ thing {
     from, to { border-color: transparent }
     50% { border-color: white }
 }
-
