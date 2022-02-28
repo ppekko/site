@@ -7,10 +7,13 @@ i'm also the creator of [vtc (very terrible code)](https://vtc.pipewarp.co.uk), 
 more details [here](https://pipewarp.co.uk)
 
 <p align="center">
-  <a href="https://github.com/PipeWarp/LxDemOWin">
+  <a href="https://github.com/pipewarp/LxDemOWin">
   <img src="https://raw.githubusercontent.com/PipeWarp/LxDemOWin/main/brand/icon.png" alt="LxDemOWin" width="100" height="100"/>
   </a>
-  <a href="https://github.com/PipeWarp/SimpleNFL">
+  <a href="https://github.com/pipewarp/SimpleNFL">
   <img src="https://raw.githubusercontent.com/PipeWarp/SimpleNFL/master/brand/icon.png" alt="SimpleNFL" width="100" height="100"/>
+  </a>
+  <a href="https://github.com/pipewarp/QECI">
+  <img src="https://raw.githubusercontent.com/PipeWarp/QECI/master/brand/icon.png" alt="QECI" width="100" height="100"/>
   </a>
 </p>
