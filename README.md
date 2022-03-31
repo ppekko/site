@@ -1,7 +1,7 @@
 # heya
 
 i'm a guy who creates code, and i like code that compile into tiny sizes.
-
+i dont like making frequent commits, despite how much of a good idea it would be (i'm a "massive commit" sort of guy)
 i'm also the creator of [vtc (very terrible code)](https://vtc.pipewarp.co.uk), and i'm a lead dev there.
 
 more details [here](https://pipewarp.co.uk)
