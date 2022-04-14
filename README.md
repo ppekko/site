@@ -9,7 +9,7 @@ i'm also the creator of [vtc (very terrible code)](https://vtc.pipewarp.co.uk), 
 more details [here](https://pipewarp.co.uk)
 
 <p align="center">
-  <a href="https://www.shadertoy.com/profile/pipewarp">
+  <a href="https://www.shadertoy.com/user/pipewarp">
   <img src="https://raw.githubusercontent.com/pipewarp/pipewarp/main/brand/shadertoy.png" alt="ShaderToy" width="300" height="100"/>
   </a>
   <a href="https://github.com/pipewarp/LxDemOWin">
