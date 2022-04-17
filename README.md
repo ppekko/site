@@ -24,5 +24,5 @@ more details [here](https://pipewarp.co.uk)
 </p>
 <p align="center">
   <a href="https://github.com/pipewarp/tinyhelloworld-linux">
-  <img src="https://raw.githubusercontent.com/pipewarp/tinyhelloworld-linux/main/brand/icon.png" alt="TinyHelloWorld" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/pipewarp/tinyhelloworld-linux/master/brand/icon.png" alt="TinyHelloWorld" width="100" height="100"/>
 </p>
