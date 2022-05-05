@@ -1,4 +1,5 @@
-# underoing name change, please wait
+## ( note: you may have previously known me as *pipewarp*)
+# kbx
 
 i'm a guy who creates code, and i like code that compile into tiny sizes.
 
