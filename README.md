@@ -1,4 +1,4 @@
-![Visitor Counter for kb-x](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=kb-x)}]
+![Visitor Counter for kb-x](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=kb-x)}
 ## ( note: you may have previously known me as *pipewarp*)
 # kbx
 
