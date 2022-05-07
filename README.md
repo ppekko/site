@@ -1,4 +1,3 @@
-![Visitor Counter for kb-x](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=kb-x)
 ## ( note: you may have previously known me as *pipewarp*)
 # kbx
 
@@ -31,3 +30,4 @@ more details [here](https://pipewarp.co.uk)
   <img src="https://raw.githubusercontent.com/kb-x/uniprofile/master/brand/icon.png" alt="uniprofile" width="100" height="100"/>
   </a>
 </p>
+![Visitor Counter for kb-x](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=kb-x)
