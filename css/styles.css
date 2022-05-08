@@ -16,42 +16,13 @@ header {
     color: #fff;
 }
 
-.anim1 {
-    color: #11cf43;
-    padding-top: 100px;
-}
 
-.anim2 {
+.h1 {
     color: white;
     font-family: 'Courier New';
-    display:none;
     padding: 80px;
-    font-size: 62px;
-}
-
-.anim3 {
-    color: white;
-    font-family: 'Courier New';
-    display:none;
-    font-size: 32px;
-}
-.anim4 {
-    color: white;
-    font-family: 'Courier New';
-    display:none;
-    font-size: 32px;
-}
-.anim5 {
-    color: white;
-    font-family: 'Courier New';
-    display:none;
-    font-size: 32px;
-}
-.anim6 {
-    color: white;
-    font-family: 'Courier New';
-    display:none;
-    font-size: 32px;
+    font-size: 45px;
+    text-align: left;
 }
 
 .list {
