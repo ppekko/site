@@ -8,7 +8,7 @@ i dont like making frequent commits, despite how much of a good idea it would be
 i'm also the creator of [vtc (very terrible code)](https://vtc.pipewarp.co.uk), and i'm a lead dev there.
 
 <p align="center">
-  <a href="https://www.shadertoy.com/user/pipewarp">
+  <a href="https://www.shadertoy.com/user/kbx">
   <img src="https://raw.githubusercontent.com/kb-x/kb-x/main/brand/shadertoy.png" alt="ShaderToy" width="300" height="100"/>
   </a>
   <a href="https://github.com/kb-x/LxDemOWin">
