@@ -33,4 +33,11 @@ i'm also the creator of [vtc (very terrible code)](https://vtc.pipewarp.co.uk), 
   <a href="https://kbx.codes">
   <img src="https://raw.githubusercontent.com/kb-x/kb-x/main/brand/wb.png" alt="website" width="300" height="100"/>
   </a>
+  <br>
+  <a href="https://blog.kbx.codes/">
+  <img src="https://raw.githubusercontent.com/kb-x/kb-x/main/brand/blog.png" alt="blog" width="300" height="100">
+  </a>
+  <a href="https://docs.kbx.codes/">
+  <img src="https://raw.githubusercontent.com/kb-x/kb-x/main/brand/docs.png" alt="docs" width="300" height="100">
+  </a>
 </p>
