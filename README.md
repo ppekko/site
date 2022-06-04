@@ -1,4 +1,5 @@
 ## ( note: you may have previously known me as *pipewarp*)
+## ( note 2: currently undergoing exams, won't be as active for a few weeks)
 # kbx
 
 i'm a guy who creates code, and i like code that compile into tiny sizes.
