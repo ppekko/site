@@ -41,4 +41,8 @@ i'm also the creator of [vtc (very terrible code)](https://vtc.pipewarp.co.uk), 
   <a href="https://docs.kbx.codes/">
   <img src="https://raw.githubusercontent.com/kb-x/kb-x/main/brand/docs.png" alt="docs" width="300" height="100">
   </a>
+  <br>
+  <a href="https://github.com/kb-x/QECN">
+  <img src="https://raw.githubusercontent.com/kb-x/QECN/master/brand/icon.png" alt="qecn" width="100" height="100"/>
+  </a>
 </p>
