@@ -13,7 +13,7 @@
 
 <p align='center'>i dont like making frequent commits, despite how much of a good idea it would be (i'm a "massive commit" sort of guy)</p>
 
-<p align='center'>i'm also the creator of [vtc (very terrible code)](https://vtcteam.xyz), and i'm a lead dev there.</p>
+<p align='center'>i'm also the creator of <a href="https://vtcteam.xyz">very terrible code</a>, and i'm a lead dev there.</p>
 
 <p align="center">
   <a href="https://www.shadertoy.com/user/kbx">
