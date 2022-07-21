@@ -1,12 +1,13 @@
-## ( note: you may have previously known me as *pipewarp*)
-## ( note 2: currently undergoing exams, won't be as active for a few weeks)
 # kbx
 
-i'm a guy who creates code, and i like code that compile into tiny sizes.
-
+i make code thats small and fast.
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/?username=kb-x&theme=dracula"
+/>
 i dont like making frequent commits, despite how much of a good idea it would be (i'm a "massive commit" sort of guy)
 
-i'm also the creator of [vtc (very terrible code)](https://vtc.pipewarp.co.uk), and i'm a lead dev there.
+i'm also the creator of [vtc (very terrible code)](https://vtcteam.xyz), and i'm a lead dev there.
 
 <p align="center">
   <a href="https://www.shadertoy.com/user/kbx">
