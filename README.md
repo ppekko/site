@@ -1,13 +1,18 @@
-# kbx
 
-i make code thats small and fast.
+<h1 align='center'>kbx</h1>
+
+<p align='center'>i make code thats small and fast.</p>
+
+
 <img
   align="center"
   src="https://github-readme-stats.vercel.app/api/?username=kb-x&theme=dracula"
 />
-i dont like making frequent commits, despite how much of a good idea it would be (i'm a "massive commit" sort of guy)
 
-i'm also the creator of [vtc (very terrible code)](https://vtcteam.xyz), and i'm a lead dev there.
+
+<p align='center'>i dont like making frequent commits, despite how much of a good idea it would be (i'm a "massive commit" sort of guy)
+
+i'm also the creator of [vtc (very terrible code)](https://vtcteam.xyz), and i'm a lead dev there.</p>
 
 <p align="center">
   <a href="https://www.shadertoy.com/user/kbx">
