@@ -22,10 +22,11 @@
 </p>
 
 <br>
+<p align='center'>open projects (clickable)</p>
 <p align="center">
 <!-- i apologise to everyone on behalf of my horrible html skills -->
-  open projects (clickable)
-  <br>
+
+
   <a href="https://www.shadertoy.com/user/kbx">
   <img src="https://raw.githubusercontent.com/kb-x/kb-x/main/brand/shadertoy.png" alt="ShaderToy" width="300" height="100"/>
   </a>
