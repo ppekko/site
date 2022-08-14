@@ -10,12 +10,26 @@
   src="https://github-readme-stats.vercel.app/api/?username=kb-x&theme=dracula"
 />
 </p>
+<style>
 
-<p align='center'>i dont like making frequent commits, despite how much of a good idea it would be (i'm a "massive commit" sort of guy)</p>
+ div.horizontalgap {
+  float: right;
+  overflow: hidden;
+  height: 1px;
+  width: 0px;
+  }
+</style>
 
-<p align='center'>i'm also the creator of <a href="https://vtcteam.xyz">very terrible code</a>, and i'm a lead dev there.</p>
+<p align='center'>creator of <a href="https://vtcteam.xyz">very terrible code</a>, and lead dev there.</p>
 
+<p align='center'>upcoming projects</p>
+
+<p align='center'>
+<img src="brand/anban.png" alt="animatron" width="500" height="200"/>
+<img src="brand/slban.png" alt="slush" width="500" height="200"/>
+</p>
 <p align="center">
+<!-- i apologise to everyone on behalf of my horrible html skills -->
   <a href="https://www.shadertoy.com/user/kbx">
   <img src="https://raw.githubusercontent.com/kb-x/kb-x/main/brand/shadertoy.png" alt="ShaderToy" width="300" height="100"/>
   </a>
@@ -42,14 +56,12 @@
   <img src="https://raw.githubusercontent.com/kb-x/kb-x/main/brand/wb.png" alt="website" width="300" height="100"/>
   </a>
   <br>
-  <a href="https://blog.kbx.codes/">
-  <img src="https://raw.githubusercontent.com/kb-x/kb-x/main/brand/blog.png" alt="blog" width="300" height="100">
-  </a>
+
   <a href="https://docs.kbx.codes/">
   <img src="https://raw.githubusercontent.com/kb-x/kb-x/main/brand/docs.png" alt="docs" width="300" height="100">
   </a>
-  <br>
-  <a href="https://github.com/kb-x/QECN">
+      <a href="https://github.com/kb-x/QECN">
   <img src="https://raw.githubusercontent.com/kb-x/QECN/master/brand/icon.png" alt="qecn" width="100" height="100"/>
   </a>
+  <div class="horizontalgap" style="width:200px"></div>
 </p>
