@@ -10,15 +10,23 @@
   src="https://github-readme-stats.vercel.app/api/?username=kb-x&theme=dracula"
 />
 </p>
+<style>
 
+ div.horizontalgap {
+  float: right;
+  overflow: hidden;
+  height: 1px;
+  width: 0px;
+  }
+</style>
 
 <p align='center'>creator of <a href="https://vtcteam.xyz">very terrible code</a>, and lead dev there.</p>
 
 <p align='center'>upcoming projects</p>
 
 <p align='center'>
-<img src="brand/anban.png" alt="animatron" width="250" height="100"/>
-<img src="brand/slban.png" alt="slush" width="250" height="100"/>
+<img src="brand/anban.png" alt="animatron" width="500" height="200"/>
+<img src="brand/slban.png" alt="slush" width="500" height="200"/>
 </p>
 
 <br><br>
@@ -59,4 +67,5 @@
       <a href="https://github.com/kb-x/QECN">
   <img src="https://raw.githubusercontent.com/kb-x/QECN/master/brand/icon.png" alt="qecn" width="100" height="100"/>
   </a>
+  <div class="horizontalgap" style="width:200px"></div>
 </p>
