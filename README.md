@@ -21,6 +21,12 @@
 <img src="brand/slban.png" alt="slush" width="250" height="100"/>
 </p>
 
+<p align='center'>
+<img src="brand/dtban.png" alt="deadtext" width="250" height="100"/>
+<img src="brand/csban.png" alt="coming soon" width="250" height="100"/>
+</p>
+
+
 <br>
 <p align='center'>open projects (clickable)</p>
 <p align="center">
