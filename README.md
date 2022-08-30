@@ -1,5 +1,5 @@
 
-<h1 align='center'><img src="brand/tlg.png" alt="logo" width="394" height="115" style="image-rendering: pixelated; image-rendering: -moz-crisp-edges;"/></h1>
+<h1 align='center'><img src="brand/tlg.png" alt="logo" width="306.5" height="115" style="image-rendering: pixelated; image-rendering: -moz-crisp-edges;"/></h1>
 
 <p align='center'>i make code thats small and fast.</p>
 
