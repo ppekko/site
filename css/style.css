@@ -1,0 +1,89 @@
+
+body {
+  margin:100px;
+  font-size: 25px;
+  background-color:#161616;
+
+  font-family:'Dev Gothic Regular';
+  image-rendering: pixelated;
+}
+@font-face {
+    font-family: 'Dev Gothic Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Dev Gothic Regular'), url('../font/devgothic.woff') format('woff');
+}
+
+.right{
+    position: absolute;
+    display: flex;
+    right: 0;
+}
+
+h1{
+    font-weight: bold;
+}
+
+
+.sliding-background {
+    position: relative;
+    background-image: url("../bg.png");
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-size: 50px, 50px;
+    animation: slide 1s infinite linear;
+
+}
+
+@keyframes slide{
+    0%{
+        background-position-x: 0px;
+        background-position-y: 0px;
+    }
+    100%{
+        background-position-x: -100px; /* or something */
+        background-position-y: -100px;
+    }
+}
+
+html {
+    color: white;
+}
+
+a{
+    size: text.size;
+}
+
+a:link {
+  color: white;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: white;
+  text-decoration: underline;
+}
+
+div {
+    height: 4320px;
+}
+
+text {
+    font-size: 25px;
+}
+
+spacing {
+	display:block;
+	padding-bottom : 5px;
+}
+
+bigspacing {
+	display:block;
+	padding-bottom : 20px;
+}
+
+massivespacing {
+	display:block;
+	padding-bottom : 100px;
+}
+
