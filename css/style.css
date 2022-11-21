@@ -54,10 +54,28 @@ a{
     size: text.size;
 }
 
+@keyframes hover{
+    0%{
+    bottom: 0px;
+    }
+    100%{
+    bottom: 5px;
+    }
+}
+
+
+
 a:link {
+  position: relative;
   color: white;
   text-decoration: underline;
+  animation-fill-mode: forwards;
 }
+
+a:hover{
+    animation: hover 0.5s forwards;
+}
+
 
 a:visited {
   color: white;
