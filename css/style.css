@@ -32,17 +32,9 @@ body {
     src: local('Dev Gothic Regular'), url('../font/devgothic.woff') format('woff');
 }
 
-.right{
-    position: absolute;
-    display: flex;
-    right: 0;
-}
-
 h1{
     font-weight: bold;
 }
-
-
 
 html {
     color: white;
@@ -73,14 +65,19 @@ a:visited {
   text-decoration: underline;
 }
 
-div {
-    height: 4320px;
-}
-
 .text {
     font-size: 25px;
 }
 
 img {
     padding-top: 100px;
+}
+
+.right {
+    float: right;
+}
+
+.main-grid {
+    display: flex;
+    justify-content: space-between;
 }
