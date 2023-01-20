@@ -6,6 +6,7 @@ body {
 
   font-family:'Dev Gothic Regular';
   image-rendering: pixelated;
+
 }
 @font-face {
     font-family: 'Dev Gothic Regular';
@@ -24,7 +25,6 @@ h1{
     font-weight: bold;
 }
 
-
 .sliding-background {
     position: relative;
     background-image: url("../bg.png");
@@ -33,6 +33,11 @@ h1{
     background-size: 50px 50px;
     animation: slide 1s infinite linear;
 
+  background-image: url("../bg.png");
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-size: 50px 50px;
+  animation: slide 1s infinite linear;
 }
 
 @keyframes slide{
@@ -44,6 +49,18 @@ h1{
         background-position-x: -100px; /* or something */
         background-position-y: -100px;
     }
+}
+
+@font-face {
+    font-family: 'Dev Gothic Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Dev Gothic Regular'), url('../font/devgothic.woff') format('woff');
+}
+
+
+h1{
+    font-weight: bold;
 }
 
 html {
@@ -70,19 +87,38 @@ a:hover{
     animation: hover 0.5s forwards;
 }
 
+
+@keyframes hover{
+    0%{
+    bottom: 0px;
+    }
+    100%{
+    bottom: 5px;
+    }
+}
+
+
 a:visited {
   color: white;
   text-decoration: underline;
 }
 
-div {
-    height: 4320px;
-}
+
 
 .text {
     font-size: 25px;
 }
 
 img {
-    padding-top: 100%;
+    padding-top: 100px;
+}
+
+.right {
+    float: right;
+}
+
+.main-grid {
+    display: flex;
+    justify-content: space-between;
+
 }
