@@ -25,7 +25,6 @@ h1{
     font-weight: bold;
 }
 
-
 .sliding-background {
     position: relative;
     background-image: url("../bg.png");
@@ -66,6 +65,7 @@ h1{
 
 html {
     color: white;
+}
 
 @keyframes hover{
     0%{
