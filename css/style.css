@@ -30,7 +30,7 @@ h1{
     background-image: url("../bg.png");
     background-repeat: repeat;
     background-attachment: scroll;
-    background-size: 50px, 50px;
+    background-size: 50px 50px;
     animation: slide 1s infinite linear;
 
 }
@@ -50,10 +50,6 @@ html {
     color: white;
 }
 
-a{
-    size: text.size;
-}
-
 @keyframes hover{
     0%{
     bottom: 0px;
@@ -62,8 +58,6 @@ a{
     bottom: 5px;
     }
 }
-
-
 
 a:link {
   position: relative;
@@ -76,7 +70,6 @@ a:hover{
     animation: hover 0.5s forwards;
 }
 
-
 a:visited {
   color: white;
   text-decoration: underline;
@@ -86,22 +79,10 @@ div {
     height: 4320px;
 }
 
-text {
+.text {
     font-size: 25px;
 }
 
-spacing {
-	display:block;
-	padding-bottom : 5px;
+img {
+    padding-top: 100%;
 }
-
-bigspacing {
-	display:block;
-	padding-bottom : 20px;
-}
-
-massivespacing {
-	display:block;
-	padding-bottom : 100px;
-}
-
