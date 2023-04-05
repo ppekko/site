@@ -55,7 +55,7 @@
   <a href="https://github.com/kb-x/tdaw">
   <img src="https://raw.githubusercontent.com/kb-x/tdaw/master/brand/icon.png" alt="tdaw" width="100" height="100"/>
   </a>
-  <a href="https://kbx.codes">
+  <a href="https://kbx.manesutoa.dev">
   <img src="https://raw.githubusercontent.com/kb-x/kb-x/main/brand/wb.png" alt="website" width="300" height="100"/>
   </a>
   <br>
