@@ -17,13 +17,13 @@
 <p align='center'>upcoming projects</p>
 
 <p align='center'>
-<img src="brand/anban.png" alt="animatron" width="250" height="100"/>
-<img src="brand/slban.png" alt="slush" width="250" height="100"/>
+<img src="brand/anban.png" style="image-rendering: pixelated; image-rendering: -moz-crisp-edges;" alt="animatron" width="250" height="100"/>
+<img src="brand/slban.png" style="image-rendering: pixelated; image-rendering: -moz-crisp-edges;" alt="slush" width="250" height="100"/>
 </p>
 
 <p align='center'>
-<img src="brand/dtban.png" alt="deadtext" width="250" height="100"/>
-<img src="brand/csban.png" alt="coming soon" width="250" height="100"/>
+<img src="brand/dtban.png" style="image-rendering: pixelated; image-rendering: -moz-crisp-edges;"alt="deadtext" width="250" height="100"/>
+<img src="brand/csban.png" style="image-rendering: pixelated; image-rendering: -moz-crisp-edges;" alt="coming soon" width="250" height="100"/>
 </p>
 
 
@@ -34,39 +34,39 @@
 
 
   <a href="https://www.shadertoy.com/user/kbx">
-  <img src="https://raw.githubusercontent.com/kb-x/kb-x/main/brand/shadertoy.png" alt="ShaderToy" width="300" height="100"/>
+  <img src="https://raw.githubusercontent.com/kb-x/kb-x/main/brand/shadertoy.png" style="image-rendering: pixelated; image-rendering: -moz-crisp-edges;" alt="ShaderToy" width="300" height="100"/>
   </a>
   <a href="https://github.com/kb-x/LxDemOWin">
-  <img src="https://raw.githubusercontent.com/kb-x/LxDemOWin/main/brand/icon.png" alt="LxDemOWin" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/kb-x/LxDemOWin/main/brand/icon.png" style="image-rendering: pixelated; image-rendering: -moz-crisp-edges;" alt="LxDemOWin" width="100" height="100"/>
   </a>
   <a href="https://github.com/kb-x/SimpleNFL">
-  <img src="https://raw.githubusercontent.com/kb-x/SimpleNFL/master/brand/icon.png" alt="SimpleNFL" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/kb-x/SimpleNFL/master/brand/icon.png" style="image-rendering: pixelated; image-rendering: -moz-crisp-edges;" alt="SimpleNFL" width="100" height="100"/>
   </a>
   <a href="https://github.com/kb-x/QECI">
-  <img src="https://raw.githubusercontent.com/kb-x/QECI/master/brand/icon.png" alt="QECI" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/kb-x/QECI/master/brand/icon.png" style="image-rendering: pixelated; image-rendering: -moz-crisp-edges;" alt="QECI" width="100" height="100"/>
   </a>
   <br>
   <a href="https://github.com/kb-x/tinyhelloworld-linux">
-  <img src="https://raw.githubusercontent.com/kb-x/tinyhelloworld-linux/master/brand/icon.png" alt="TinyHelloWorld" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/kb-x/tinyhelloworld-linux/master/brand/icon.png" style="image-rendering: pixelated; image-rendering: -moz-crisp-edges;" alt="TinyHelloWorld" width="100" height="100"/>
   </a>
   <a href="https://github.com/kb-x/uniprofile">
-  <img src="https://raw.githubusercontent.com/kb-x/uniprofile/master/brand/icon.png" alt="uniprofile" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/kb-x/uniprofile/master/brand/icon.png" style="image-rendering: pixelated; image-rendering: -moz-crisp-edges;" alt="uniprofile" width="100" height="100"/>
   </a>
   <a href="https://github.com/kb-x/tdaw">
-  <img src="https://raw.githubusercontent.com/kb-x/tdaw/master/brand/icon.png" alt="tdaw" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/kb-x/tdaw/master/brand/icon.png" style="image-rendering: pixelated; image-rendering: -moz-crisp-edges;" alt="tdaw" width="100" height="100"/>
   </a>
   <a href="https://kbx.manesutoa.dev">
-  <img src="https://raw.githubusercontent.com/kb-x/kb-x/main/brand/wb.png" alt="website" width="300" height="100"/>
+  <img src="https://raw.githubusercontent.com/kb-x/kb-x/main/brand/wb.png" style="image-rendering: pixelated; image-rendering: -moz-crisp-edges;" alt="website" width="300" height="100"/>
   </a>
   <br>
 
   <a href="https://docs.kbx.codes/">
-  <img src="https://raw.githubusercontent.com/kb-x/kb-x/main/brand/docs.png" alt="docs" width="300" height="100">
+  <img src="https://raw.githubusercontent.com/kb-x/kb-x/main/brand/docs.png" style="image-rendering: pixelated; image-rendering: -moz-crisp-edges;" alt="docs" width="300" height="100">
   </a>
   <a href="https://github.com/kb-x/QECN">
-  <img src="https://raw.githubusercontent.com/kb-x/QECN/master/brand/icon.png" alt="qecn" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/kb-x/QECN/master/brand/icon.png" style="image-rendering: pixelated; image-rendering: -moz-crisp-edges;" alt="qecn" width="100" height="100"/>
   </a>
   <a href="https://github.com/kb-x/dpgtk">
-      <img src="https://raw.githubusercontent.com/kb-x/dpgtk/master/brand/icon.png" alt="dpgtk" width="100" height="100" />
+      <img src="https://raw.githubusercontent.com/kb-x/dpgtk/master/brand/icon.png" style="image-rendering: pixelated; image-rendering: -moz-crisp-edges;" alt="dpgtk" width="100" height="100" />
   </a>
 </p>
