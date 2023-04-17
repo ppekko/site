@@ -1,38 +1,48 @@
-
 body {
   margin:100px;
   font-size: 25px;
   background-color:#161616;
   font-family:'Cranberry Gin';
   image-rendering: pixelated;
-
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 }
+
+
+
+.right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.wave span {
+  display: inline-block;
+  animation: wave 1s ease-in-out infinite;
+}
+
+@keyframes wave {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
 @font-face {
-    font-family: 'Cranberry Gin';
-    font-style: normal;
-    font-weight: normal;
-
-    src: local('Cranberry Gin'), url('../font/Cranberry Gin.otf') format('woff');
-}
-
-.right{
-    position: absolute;
-    display: flex;
-    right: 0;
-}
-
-h1{
-    font-weight: bold;
+  font-family: 'Cranberry Gin';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Cranberry Gin'), url('../font/Cranberry Gin.otf') format('woff');
 }
 
 .sliding-background {
-    position: relative;
-    background-image: url("../bg.png");
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-size: 50px 50px;
-    animation: slide 1s infinite linear;
-
+  position: relative;
   background-image: url("../bg.png");
   background-repeat: repeat;
   background-attachment: scroll;
@@ -41,36 +51,27 @@ h1{
 }
 
 @keyframes slide{
-    0%{
-        background-position-x: 0px;
-        background-position-y: 0px;
-    }
-    100%{
-        background-position-x: -100px; /* or something */
-        background-position-y: -100px;
-    }
+  0%{
+    background-position-x: 0px;
+    background-position-y: 0px;
+  }
+  100%{
+    background-position-x: -100px; /* or something */
+    background-position-y: -100px;
+  }
 }
 
-@font-face {
-    font-family: 'Dev Gothic Regular';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Dev Gothic Regular'), url('../font/devgothic.woff') format('woff');
-}
-
-
-h1{
-    font-weight: bold;
+h1 {
+  font-weight: normal;
 }
 
 html {
-    color: white;
+  color: white;
 }
 
-
 a {
-    transition: 0.3s;
-    bottom: 0px;
+  transition: 0.3s;
+  bottom: 0px;
 }
 
 a:link {
@@ -81,32 +82,18 @@ a:link {
 }
 
 a:hover{
-    bottom: 6px;
+  bottom: 6px;
 }
-
-
 
 a:visited {
   color: white;
   text-decoration: underline;
 }
 
-
-
 .text {
-    font-size: 25px;
+  font-size: 25px;
 }
 
 img {
-    padding-top: 100px;
-}
-
-.right {
-    float: right;
-}
-
-.main-grid {
-    display: flex;
-    justify-content: space-between;
-
+  padding-top: 100px;
 }
