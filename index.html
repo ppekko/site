@@ -6,21 +6,40 @@
   <script src="js/wavy.js"></script>
   <meta charset="UTF-8">
   <title>pipe</title>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const contentDiv = document.getElementById('content');
+    const iframe = document.querySelector('.fullscreen-iframe');
+    const viewportHeight = window.innerHeight;
+    function adjustMargin() {
+      const contentHeight = contentDiv.offsetHeight;
+      const requiredMarginBottom = viewportHeight - contentHeight;
+      if(requiredMarginBottom < 0){requiredMarginBottom = 0;}
+      contentDiv.style.marginBottom = `${requiredMarginBottom}px`;
+    }
+    adjustMargin();
+    window.addEventListener('resize', adjustMargin);
+  });
+</script>
 
 </head>
 
 <body class="sliding-background">
+  <div id="content" style="margin: 100px;">
   <img src="tlg.png" alt="logo" width="306.5" height="115" draggable="false" />
   <!-- Javascipt magic -->
   <h1  class="wave" style="margin-bottom: 40px;">loading message...</h1>
 
-  <p style="margin-bottom: 200px;">i'm fellow netizen who writes code, music and also some other things on the side<p>
+  <p style=>i'm fellow netizen who writes code, music and also some other things on the side<p>
+  <p style="margin-bottom: 200px;">i apologise on the behalf of humanity for my web development skills, but it looks good<p>
 
   <p>currently working on a DAW, stay tuned!</a>
 
-  <p><a href="https://manesutoa.dev">check out manesutoa</a> for more cool stuff</p>
+  <p style="margin-bottom: 30px;"><a href="https://manesutoa.dev">check out manesutoa</a> for more cool stuff</p>
+  <p>scroll down for some of my projects</p>
+  </div>
+  <iframe class="fullscreen-iframe" src="physics/index.html" title="Physics Simulation"></iframe>
 
 </body>
-
 
 </html>
